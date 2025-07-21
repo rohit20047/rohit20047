@@ -46,8 +46,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
-  <img width="12" />
-<img src="https://assets.vercel.com/image/upload/v1666385856/front/turbo-logo-dark.svg" height="40" alt="turborepo logo" />
+<img width="12" />
+<img src="https://raw.githubusercontent.com/vercel/turbo/main/.github/assets/logo-dark.svg" height="40" alt="turborepo logo" />
 
   
 </div>
